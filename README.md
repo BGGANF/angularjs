@@ -1,2 +1,2 @@
 # angularjs
-angularjs learning record
+angularjs learning record by wing
